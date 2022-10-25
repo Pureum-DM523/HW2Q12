@@ -6,6 +6,9 @@
 
 # Values in column names 
 
+#I am making annotated notes
+#Pureum Kim
+
 raw <- read.csv("data/pew.csv", check.names = F)
 
 head(raw)
